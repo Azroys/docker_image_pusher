@@ -1,6 +1,16 @@
+# 基础
 nginx
-#支持私库
+caddy
+go
+pythom
+mysql
+redis
+alpine
+alpine:3.20.0
+alpine:3.12.0
+# 常用
 xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 xiaoyaliu/alist
+# 支持指定架构
+--platform=linux/arm64 xiaoyaliu/alist
+
