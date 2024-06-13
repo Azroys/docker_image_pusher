@@ -1,8 +1,10 @@
 # 基础
 nginx
 caddy
-go
-pythom
+golang
+golang:alpine3.20
+python
+python:alpine3.20
 mysql
 redis
 alpine
